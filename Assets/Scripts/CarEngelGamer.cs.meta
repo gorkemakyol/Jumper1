@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: b1b985292c9a0e247a761cbe7e2d26c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {fileID: -1479479003916813563, guid: f3666127c3e90094aa5caa9fd9e721e0,
+      type: 3}
+  - Obstacle1: {fileID: 2320150803863878774, guid: 4436796c40962634d94a2a417e9e39fd,
+      type: 3}
+  - Obstacle2: {fileID: 1844265121325903840, guid: 754e723259054224783171574198bc02,
+      type: 3}
+  - Obstacle3: {fileID: 5289057006394688501, guid: ec93f65290cbd1a479c132375f33f358,
+      type: 3}
+  - Obstacle4: {fileID: 3775491766828677640, guid: 3467e1b435fe83d49b1d04bfe82f4bb0,
+      type: 3}
+  - Obstacle5: {fileID: 4956067137836463841, guid: be1c731235d64d547b0f10376906c98c,
+      type: 3}
+  - Obstacle6: {fileID: 2063646698884291505, guid: 716b065e5296ad443b580bc152ac0e0c,
+      type: 3}
+  - Obstacle7: {fileID: 4205598792509676826, guid: 4e622d9f169159140ac6ac2dfa0c9ed5,
+      type: 3}
+  - Obstacle8: {fileID: 6195130047192907279, guid: d0a1402206cb4b04d9bfe25022648a15,
+      type: 3}
+  - Obstacle9: {fileID: 2487003390518272279, guid: c50d5a7d326751f4fa5456db9381b4cc,
+      type: 3}
+  - Obstacle10: {fileID: 8551126160760135603, guid: 4861196b0feeb674f8a2e22f7501cd9b,
+      type: 3}
+  - Obstacle11: {fileID: 4565410175136794350, guid: 86677722826fc2f44aada4d7a20a6a01,
+      type: 3}
+  - Obstacle12: {fileID: 8611574517307375845, guid: 2cd6662b485c85a4eb473a26896eacbd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
