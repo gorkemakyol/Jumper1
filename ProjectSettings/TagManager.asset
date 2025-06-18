@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - People
+  - Car
+  - PeopleSemaphore
+  - Road
+  - WelcomeTxt
+  - ComeBackWall
+  - Up
+  - Slide
+  - Move1
+  - Move2
+  - Move3
+  - Move4
+  - Move5
+  - Move6
+  - Move7
+  - Move8
+  - GamerGirl
+  - Cubes
+  - Glass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - people
+  - car
+  - semaphore
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
