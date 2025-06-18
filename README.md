@@ -7,6 +7,7 @@ Bu proje, Dart dilinde geliştirilen 2D bir platform oyunudur. Oyuncunun amacı,
 ## 🖥️ Ekran Görüntüsü
 
 ![Jumper Ekran Görüntüsü](screenshots/anasayfa.png)
+[Jumper Ekran Görüntüsü](screenshots/oyuniçi.png)
 
 ## 🚀 Özellikler
 
